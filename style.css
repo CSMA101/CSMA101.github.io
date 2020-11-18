@@ -1,0 +1,38 @@
+h1{
+    color: hotpink;
+    text-align: center;
+    font-family: sans-serif;
+    
+}
+
+p{
+    color: orangered;
+    font-family: fantasy;
+    width: 20%;
+    height: 400px;
+    text-align: justify;
+    float:left;
+    margin: 20px;
+
+}
+
+body{
+    background-color: aqua;
+}
+
+
+img{
+    
+   margin-left: auto;
+    margin-right: auto;
+    height:auto;
+    max-width: 50%;
+    padding-left: 25%;
+    
+}
+
+header,footer{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 20px;
+}

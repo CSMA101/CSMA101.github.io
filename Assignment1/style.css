@@ -1,0 +1,36 @@
+h1{
+    color: hotpink;
+    text-align: center;
+    font-family: sans-serif;
+    
+}
+
+p{
+    color: orangered;
+    text-align: center;
+    font-family: fantasy;
+}
+
+body{
+    background-color: aqua;
+}
+
+
+img{
+
+    max-width: 20%;
+    
+}
+
+header{
+    background-color: greenyellow;
+    text-align: center;
+    padding: 20px;
+}
+
+footer{
+   background-color: greenyellow;
+    text-align: center;
+    padding: 20px; 
+    
+}
