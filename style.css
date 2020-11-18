@@ -27,7 +27,7 @@ img{
     margin-right: auto;
     height:auto;
     max-width: 50%;
-    padding-left: 25%;
+    padding-left: 40%;
     
 }
 
@@ -35,4 +35,10 @@ header,footer{
     background-color: aquamarine;
     text-align: center;
     padding: 20px;
+}
+
+#sketch-holder{
+    position: absolute;
+    z-index: -1;  
+  
 }
